@@ -36,7 +36,7 @@ require (
 	github.com/googleapis/google-cloud-go-testing v0.0.0-20191008195207-8e1d251e947d
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/sessions v1.2.1
-	github.com/graph-gophers/graphql-go v1.1.0
+	github.com/graph-gophers/graphql-go v1.3.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/ianlancetaylor/cgosymbolizer v0.0.0-20200424224625-be1b05b0b279
 	github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf
