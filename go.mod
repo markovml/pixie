@@ -46,12 +46,12 @@ require (
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/lestrrat-go/jwx v1.2.4
-	github.com/lib/pq v1.10.0
+	github.com/lib/pq v1.10.4
 	github.com/mattn/go-runewidth v0.0.9
-	github.com/nats-io/nats-server/v2 v2.2.0
-	github.com/nats-io/nats-streaming-server v0.21.1
-	github.com/nats-io/nats.go v1.10.1-0.20210228004050-ed743748acac
-	github.com/nats-io/stan.go v0.8.3
+	github.com/nats-io/nats-server/v2 v2.7.4
+	github.com/nats-io/nats-streaming-server v0.24.3
+	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
+	github.com/nats-io/stan.go v0.10.2
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/olivere/elastic/v7 v7.0.12
 	github.com/ory/dockertest/v3 v3.6.3
@@ -82,7 +82,7 @@ require (
 	golang.org/x/net v0.0.0-20210330230544-e57232859fb2
 	golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210611083646-a4fc73990273
+	golang.org/x/sys v0.0.0-20220307203707-22a9840ba4d7
 	golang.org/x/term v0.0.0-20210317153231-de623e64d2a6
 	google.golang.org/api v0.44.0
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
