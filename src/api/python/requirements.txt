@@ -1,6 +1,6 @@
 Authlib==0.15.4
 cffi==1.14.6
-cryptography==3.4.7
+cryptography==39.0.1
 gogo-python==0.0.1
 grpcio==1.37.0
 grpcio-tools==1.37.0
